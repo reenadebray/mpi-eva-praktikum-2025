@@ -1,0 +1,6 @@
+#mpa_vJun23_CHOCOPhlAnSGB_202403
+#/mnt/primevo/work/reena_debray/conda/envs/metaphlan-3.0/bin/metaphlan full_run/trimmed/L33234_negative.forward_paired.fq.gz,full_run/trimmed/L33234_negative.reverse_paired.fq.gz --input_type fastq --bowtie2out /mnt/primevo/scratch/reena_debray/leipzig_zoo_praktikum/full_run/bowtie/L33234_negative.bt -s /mnt/primevo/scratch/reena_debray/leipzig_zoo_praktikum/full_run/sam/L33234_negative.sam.bz2 --unclassified_estimation -o /mnt/primevo/scratch/reena_debray/leipzig_zoo_praktikum/full_run/metaphlan/L33234_negative.profile.txt
+#140 reads processed
+#SampleID	Metaphlan_Analysis
+#clade_name	NCBI_tax_id	relative_abundance	additional_species
+UNCLASSIFIED	-1	100.0	
