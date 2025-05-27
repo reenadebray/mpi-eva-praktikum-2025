@@ -1,0 +1,77 @@
+ 67.14	47	47	U	0	unclassified
+ 32.86	23	0	R	1	root
+ 32.86	23	0	R1	131567	  cellular organisms
+ 32.86	23	0	D	2	    Bacteria
+ 20.00	14	0	D1	1783272	      Terrabacteria group
+ 11.43	8	0	P	1239	        Bacillota
+  7.14	5	0	C	186801	          Clostridia
+  7.14	5	0	O	186802	            Eubacteriales
+  4.29	3	0	F	216572	              Oscillospiraceae
+  4.29	3	0	G	216851	                Faecalibacterium
+  2.86	2	1	S	853	                  Faecalibacterium prausnitzii
+  1.43	1	1	S1	718252	                    Faecalibacterium prausnitzii L2-6
+  1.43	1	0	G1	2646395	                  unclassified Faecalibacterium
+  1.43	1	1	S	2929493	                    Faecalibacterium sp. I3-3-89
+  1.43	1	0	F	186803	              Lachnospiraceae
+  1.43	1	0	G	1766253	                Agathobacter
+  1.43	1	0	S	39491	                  Agathobacter rectalis
+  1.43	1	1	S1	515619	                    Agathobacter rectalis ATCC 33656
+  1.43	1	0	F	31979	              Clostridiaceae
+  1.43	1	0	G	1485	                Clostridium
+  1.43	1	1	S	36845	                  Clostridium intestinale
+  4.29	3	0	C	91061	          Bacilli
+  4.29	3	0	O	1385	            Bacillales
+  4.29	3	0	F	186820	              Listeriaceae
+  4.29	3	2	G	1637	                Listeria
+  1.43	1	1	S	1639	                  Listeria monocytogenes
+  8.57	6	0	P	201174	        Actinomycetota
+  8.57	6	0	C	1760	          Actinomycetes
+  7.14	5	0	O	85009	            Propionibacteriales
+  4.29	3	0	F	31957	              Propionibacteriaceae
+  2.86	2	0	G	1912216	                Cutibacterium
+  2.86	2	2	S	1747	                  Cutibacterium acnes
+  1.43	1	0	G	29404	                Microlunatus
+  1.43	1	1	S	546874	                  Microlunatus sagamiharensis
+  2.86	2	0	F	85015	              Nocardioidaceae
+  2.86	2	0	G	1839	                Nocardioides
+  2.86	2	0	G1	2615069	                  unclassified Nocardioides
+  2.86	2	2	S	2931390	                    Nocardioides sp. W7
+  1.43	1	0	O	85007	            Mycobacteriales
+  1.43	1	0	F	1762	              Mycobacteriaceae
+  1.43	1	0	G	1866885	                Mycolicibacterium
+  1.43	1	0	S	1800	                  Mycolicibacterium chubuense
+  1.43	1	1	S1	710421	                    Mycolicibacterium chubuense NBB4
+  8.57	6	0	P	1224	      Pseudomonadota
+  7.14	5	0	C	1236	        Gammaproteobacteria
+  2.86	2	0	O	2887326	          Moraxellales
+  2.86	2	0	F	468	            Moraxellaceae
+  2.86	2	1	G	469	              Acinetobacter
+  1.43	1	1	S	28090	                Acinetobacter lwoffii
+  1.43	1	0	O	72274	          Pseudomonadales
+  1.43	1	0	F	135621	            Pseudomonadaceae
+  1.43	1	0	G	286	              Pseudomonas
+  1.43	1	0	G1	136845	                Pseudomonas putida group
+  1.43	1	1	S	47885	                  Pseudomonas oryzihabitans
+  1.43	1	0	O	135614	          Xanthomonadales
+  1.43	1	0	F	32033	            Xanthomonadaceae
+  1.43	1	0	G	83618	              Pseudoxanthomonas
+  1.43	1	1	S	128785	                Pseudoxanthomonas mexicana
+  1.43	1	0	O	135624	          Aeromonadales
+  1.43	1	0	F	84642	            Aeromonadaceae
+  1.43	1	0	G	642	              Aeromonas
+  1.43	1	1	S	650	                Aeromonas jandaei
+  1.43	1	0	C	2008785	        Hydrogenophilia
+  1.43	1	0	O	119069	          Hydrogenophilales
+  1.43	1	0	F	206349	            Hydrogenophilaceae
+  1.43	1	0	G	70774	              Hydrogenophilus
+  1.43	1	1	S	297	                Hydrogenophilus thermoluteolus
+  4.29	3	0	D1	1783270	      FCB group
+  4.29	3	0	D2	68336	        Bacteroidota/Chlorobiota group
+  4.29	3	0	P	976	          Bacteroidota
+  4.29	3	0	C	200643	            Bacteroidia
+  4.29	3	0	O	171549	              Bacteroidales
+  2.86	2	0	F	2005525	                Tannerellaceae
+  2.86	2	2	G	375288	                  Parabacteroides
+  1.43	1	0	F	815	                Bacteroidaceae
+  1.43	1	0	G	909656	                  Phocaeicola
+  1.43	1	1	S	821	                    Phocaeicola vulgatus
