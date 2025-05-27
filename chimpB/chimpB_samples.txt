@@ -1,0 +1,11 @@
+Exhibit Animal_name Date Fecal_sample_ID DNA_sample_ID
+Chimpanzee B Group Alex 2025-02-27 T001073 NA000390
+Chimpanzee B Group Alex 2025-02-27 T001073 NA000354
+Chimpanzee B Group Zira 2025-03-07 T001085 NA000334
+Chimpanzee B Group Hope 2025-03-11 T001089 NA000337
+Chimpanzee B Group Alex 2025-03-11 T001092 NA000363
+Chimpanzee B Group Hope 2025-03-13 T001095 NA000396
+Chimpanzee B Group Hope 2025-03-13 T001095 NA000366
+Chimpanzee B Group Hope 2025-04-18 T001186 NA000384
+Chimpanzee B Group Hope 2025-05-09 T001201 NA000387
+Chimpanzee B Group Jeudi 2025-05-12 T001202 NA000388
