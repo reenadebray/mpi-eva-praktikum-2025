@@ -1,14 +1,14 @@
 Exhibit Animal_name Date Fecal_sample_ID DNA_sample_ID
-Chimpanzee A Group Riet 2025-02-28 T001076 NA000393
-Chimpanzee A Group Riet 2025-02-28 T001076 NA000357
-Chimpanzee A Group Riet 2025-03-11 T001091 NA000338
-Chimpanzee A Group Azibo 2025-03-18 T001099 NA000339
-Chimpanzee A Group Sandra 2025-03-31 T001166 NA000376
-Chimpanzee A Group Riet 2025-03-31 T001167 NA000401
-Chimpanzee A Group Riet 2025-03-31 T001167 NA000377
-Chimpanzee A Group Tai 2025-04-03 T001169 NA000403
-Chimpanzee A Group Tai 2025-04-03 T001169 NA000379
-Chimpanzee A Group Fraukje 2025-04-14 T001184 NA000406
-Chimpanzee A Group Fraukje 2025-04-14 T001184 NA000382
-Chimpanzee A Group Swela 2025-04-17 T001185 NA000383
-Chimpanzee A Group Bambari 2025-04-17 T001187 NA000385
+Chimpanzee_A_Group Riet 2025-02-28 T001076 NA000393
+Chimpanzee_A_Group Riet 2025-02-28 T001076 NA000357
+Chimpanzee_A_Group Riet 2025-03-11 T001091 NA000338
+Chimpanzee_A_Group Azibo 2025-03-18 T001099 NA000339
+Chimpanzee_A_Group Sandra 2025-03-31 T001166 NA000376
+Chimpanzee_A_Group Riet 2025-03-31 T001167 NA000401
+Chimpanzee_A_Group Riet 2025-03-31 T001167 NA000377
+Chimpanzee_A_Group Tai 2025-04-03 T001169 NA000403
+Chimpanzee_A_Group Tai 2025-04-03 T001169 NA000379
+Chimpanzee_A_Group Fraukje 2025-04-14 T001184 NA000406
+Chimpanzee_A_Group Fraukje 2025-04-14 T001184 NA000382
+Chimpanzee_A_Group Swela 2025-04-17 T001185 NA000383
+Chimpanzee_A_Group Bambari 2025-04-17 T001187 NA000385
