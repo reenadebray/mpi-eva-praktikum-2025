@@ -6,6 +6,5 @@ Chimpanzee_B_Group Hope 2025-03-11 T001089 NA000337
 Chimpanzee_B_Group Alex 2025-03-11 T001092 NA000363
 Chimpanzee_B_Group Hope 2025-03-13 T001095 NA000396
 Chimpanzee_B_Group Hope 2025-03-13 T001095 NA000366
-Chimpanzee_B_Group Hope 2025-04-18 T001186 NA000384
 Chimpanzee_B_Group Hope 2025-05-09 T001201 NA000387
 Chimpanzee_B_Group Jeudi 2025-05-12 T001202 NA000388
